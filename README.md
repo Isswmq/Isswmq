@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **sql**
 
-- 💪 Skills: Java Core
+- 💪 Skills: Java Core, Sql
 
 - 👨‍💻 All of my projects are available at [https://github.com/Isswmq?tab=repositories](https://github.com/Isswmq?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.youtube.com/@iswmq420](https://www.youtube.com/@iswmq420)
+- 📝 I regularly write articles on [https://leetcode.com/iswmqq/)
 
 - 📫 How to reach me **isswmqwork@gmail.com**
 
