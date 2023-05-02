@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isswmq&label=Profile%20views&color=0e75b6&style=flat" alt="isswmq" /> </p>
 
-- 🔭 I’m currently working on **Minecraft Hacked Client**
+- 🔭 I’m currently working on **NoteWise Telegram Bot**
 
-- 🌱 I’m currently learning **sql**
+- 🌱 I’m currently learning **?????**
 
 - 💪 Skills: Java Core, Sql
 
